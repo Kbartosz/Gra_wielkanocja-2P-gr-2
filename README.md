@@ -2,17 +2,17 @@
 ## Wielkanocna Gra na Canvas
 
 ### Opis projektu:
-To jest prosta gra wielkanocna stworzona przy użyciu HTML5, Canvas i JavaScript. Gracz steruje zającem, zbierając jajka  i unikając zderzenia z bombami.
+To jest prosta gra wielkanocna stworzona przy użyciu HTML5, Canvas i JavaScript. Gracz steruje zającem, zbierając jajka.
 
 ### Instrukcja:
 1. Uruchom plik maks1.html w przeglądarce internetowej.
-2. Użyj strzałek klawiatury (lewo i prawo) do poruszania królikiem.
-3. Zbieraj jak najwięcej jajek, unikając bomb.
-4. Gra kończy się, gdy trzykrotnie zderzysz się z bombami.
+2. Użyj strzałek klawiatury (a i d) do poruszania królikiem.
+3. Zbieraj jak najwięcej jajek, i nie pozwól im sapść.
+4. Gra kończy się, gdy trzykrotnie przegapisz jajko.
 
 ### Zasady:
 - Zbieraj jajka, aby zdobywać punkty.
-- Unikaj zderzeń z bombami.
+- Unikaj pomijania ich.
 - Im więcej jajek zebrałeś, tym wyższy wynik osiągniesz.
 
 ### Autor:
